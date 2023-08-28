@@ -10,7 +10,7 @@
     <br>
 
     <label for="Mobile No"><b>Mobile</b></label>
-    <input type="text" placeholder="Enter Mobile No" name="Mobile" id="Mobile" required>
+    <input type="text" placeholder="Enter Mobile No" name="Mobile" id="Mobile No" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
